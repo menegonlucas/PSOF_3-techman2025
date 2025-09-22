@@ -33,3 +33,6 @@ techman2025/
 - **Banco de dados** implementado e script `script.sql` para recriar o banco de dados
 - **Diagrama de atividades** em PDF
 - **Aplicação completa** com tela de login, listagem/cadastro/exclusão de equipamentos e cadastro de comentários
+
+![alt text](docs/mer-der.png)
+![alt text](docs/uml-atividades.png)
